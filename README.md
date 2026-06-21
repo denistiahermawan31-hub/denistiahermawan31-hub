@@ -1,7 +1,7 @@
 # Halo, Saya Denistia! 👋
 ### 🎓 Software Engineering Student @ SMKN 1 Ciamis
 
-- 💻 **Project Terbaru:** [Web Portofolio Saya](https://portofolio-denistia.netlify.app) 🚀
+- 💻 **Project Terbaru:** [Web Portofolio Saya](portofoliodenistia.netlify.app) 🚀
 - 📚 **Sedang Belajar:** HTML, CSS, & JavaScript
 - 📍 **Lokasi:** Ciamis, Jawa Barat
 - ⚡ **Motto:** Step by step, one project at a time.
