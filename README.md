@@ -9,7 +9,7 @@
 ---
 
 ### Lisensi & Sertifikasi
-- **[Lihat Koleksi 7 Sertifikat & Lisensi Saya di Sini](https://github.com/denistiahermawan31-hub/sertifikat-saya)**
+- **[Galeri Sertifikasi Saya](https://github.com/denistiahermawan31-hub/sertifikat-saya)**
 
 ---
 📫 **Hubungi saya:** [denistiahermawan31@gmail.com](mailto:denistiahermawan31@gmail.com)
