@@ -8,7 +8,7 @@
 
 ---
 
-### Lisensi & Sertifikasi
+### 📜 Sertifikasi & Pelatihan
 - **[Galeri Sertifikasi Saya](https://github.com/denistiahermawan31-hub/sertifikat-saya)**
 
 ---
