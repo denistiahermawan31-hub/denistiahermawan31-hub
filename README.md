@@ -10,9 +10,8 @@ Software Engineering Student @ SMKN 1 Ciamis
 
 ---
 
-## Team Projects
 
-Collaborative projects built with a team.
+## Team Projects
 
 - **[MindCare](https://github.com/sayyidmuhammad2974-lgtm/MindCare)** — Anonymous AI-powered mental wellness support website.
   - Team: Strawberry Coding Club
@@ -21,15 +20,16 @@ Collaborative projects built with a team.
 
 - **[SIPENA](https://github.com/denistiahermawan31-hub/SIPENA)** — Student habit assessment and monitoring system.
 
-- **[Code50 Project](https://github.com/code50/263795203)** — Coding practice project.
-
 ---
 
-## Personal Projects
+## Personal Projects & Coding Practice
+
+- **[CS50 — C Programming](https://github.com/code50/263795203)** — Programming exercises and projects written in C as part of my CS50 learning journey.
 
 - [Kalkulator Sederhana](https://github.com/denistiahermawan31-hub/kalkulatorsederhana)
 - [Tabunganku](https://github.com/denistiahermawan31-hub/web.tabungan)
 - [Web Portofolio](https://github.com/denistiahermawan31-hub/Portofolia_Denistia)
+
 
 ---
 
