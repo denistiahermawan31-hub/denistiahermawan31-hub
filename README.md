@@ -34,12 +34,6 @@ Saya sedang mempelajari pengembangan web dan aplikasi melalui proyek mandiri mau
 
 ## Certifications
 
-### Paham AI — Literasi Kecerdasan Artifisial
-
-Senopati Academy · Polri · Kemendikdasmen
-
-![Sertifikat Paham AI](https://github.com/denistiahermawan31-hub/sertifikat-saya/raw/main/sertifikat-paham-ai-denistia.png)
-
 [View All Certificates](https://github.com/denistiahermawan31-hub/sertifikat-saya)
 
 ---
